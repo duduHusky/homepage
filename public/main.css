@@ -1,0 +1,15 @@
+.beian{
+    text-align: center;
+    padding-bottom: 20px;
+}
+.beian .link-text{
+    color: #939393;
+    height: 20px;
+    line-height: 20px;
+    font-size: 12px;
+}
+.beian .report-img{
+    display: inline-block;
+    height: 20px;
+    margin-right: 1px;
+}
